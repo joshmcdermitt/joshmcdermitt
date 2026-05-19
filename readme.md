@@ -22,7 +22,7 @@ Engineering Manager • Frontend Architect • React/TypeScript Specialist
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![C Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ---
 
@@ -41,6 +41,7 @@ Engineering Manager • Frontend Architect • React/TypeScript Specialist
 
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-D9281A?style=for-the-badge&logo=redis&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -58,7 +59,7 @@ Engineering Manager • Frontend Architect • React/TypeScript Specialist
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [YOUR_LINKEDIN](https://www.linkedin.com/in/joshmcdermitt/)
+- 💼 LinkedIn: [Josh McDermitt](https://www.linkedin.com/in/joshmcdermitt/)
 - 📧 Email: joshmcdermitt@gmail.com
 
 ---
