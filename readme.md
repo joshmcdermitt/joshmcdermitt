@@ -69,8 +69,5 @@ Engineering Manager • Frontend Architect • React/TypeScript Specialist
 
 ## 📈 GitHub Stats
 
-![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshmcdermitt&show_icons=true&theme=tokyonight)
-![Josh's GitHub stats @ Leadr](https://github-readme-stats.vercel.app/api?username=joshmcdermitt-leadr&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshmcdermitt&layout=compact&theme=tokyonight)
-![Top Langs @ Leadr](https://github-readme-stats.vercel.app/api/top-langs/?username=joshmcdermitt-leadr&layout=compact&theme=tokyonight)
+![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshmcdermitt&show_icons=true&theme=tokyonight&cache_seconds=86400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshmcdermitt&layout=compact&theme=tokyonight&cache_seconds=86400)
