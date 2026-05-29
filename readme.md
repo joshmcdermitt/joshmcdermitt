@@ -67,7 +67,11 @@ Engineering Manager • Frontend Architect • React/TypeScript Specialist
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
-![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshmcdermitt&show_icons=true&theme=tokyonight&cache_seconds=86400)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshmcdermitt&layout=compact&theme=tokyonight&cache_seconds=86400)
+Most of my recent production work has been in private company repositories, so this profile is focused on public examples, experiments, and reusable frontend patterns.
+
+You can also view examples from my previous Leadr GitHub account here:
+
+- [Josh McDermitt GitHub](https://github.com/joshmcdermitt)
+- [Leadr GitHub Account](https://github.com/joshmcdermitt-leadr)
