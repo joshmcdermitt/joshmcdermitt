@@ -55,6 +55,7 @@ Engineering Manager • Frontend Architect • React/TypeScript Specialist
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![LaunchDarkly](https://img.shields.io/badge/LaunchDarkly-4050FB?style=for-the-badge&logo=launchdarkly&logoColor=white)
 ![New Relic](https://img.shields.io/badge/NewRelic-008C99?style=for-the-badge&logo=newrelic&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
